@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview 3 on Grayson White</title>
-    <link>https://examplesite.org/courses/example.2/</link>
+    <link>https://graysonwhite.github.io/courses/example.2/</link>
     <description>Recent content in Overview 3 on Grayson White</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/courses/example.2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://graysonwhite.github.io/courses/example.2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>https://examplesite.org/courses/example.2/example3/</link>
+      <link>https://graysonwhite.github.io/courses/example.2/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://examplesite.org/courses/example.2/example3/</guid>
+      <guid>https://graysonwhite.github.io/courses/example.2/example3/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://examplesite.org/courses/example.2/example4/</link>
+      <link>https://graysonwhite.github.io/courses/example.2/example4/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://examplesite.org/courses/example.2/example4/</guid>
+      <guid>https://graysonwhite.github.io/courses/example.2/example4/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
