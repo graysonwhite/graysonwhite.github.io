@@ -1,4 +1,4 @@
-baseURL = "https://graysonwhite.com/"
+baseURL = "https://graysonwhite.github.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Grayson White"

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grayson White</title>
-    <link>https://graysonwhite.com/</link>
+    <link>https://graysonwhite.github.io/</link>
     <description>Recent content on Grayson White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2022 Grayson White</copyright>
-    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
 </title>
-      <link>https://graysonwhite.com/publications/frontiers-fiesta/</link>
+      <link>https://graysonwhite.github.io/publications/frontiers-fiesta/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwhite.com/publications/frontiers-fiesta/</guid>
+      <guid>https://graysonwhite.github.io/publications/frontiers-fiesta/</guid>
       <description>Abstract This paper demonstrates a process for translating a database of forest measurements to interactive dashboards through which users can access statistically defensible estimates and analyses anywhere in the conterminous US. It taps the extensive Forest Inventory and Analysis (FIA) plot network along with national remotely sensed data layers to produce estimates using widely accepted model-assisted and small area estimation methodologies. It leverages a decade’s worth of statistical and computational research on FIA’s flexible estimation engine, FIESTA, and provides a vehicle through which scientists and analysts can share their own tools and analytical processes.</description>
     </item>
     
     <item>
       <title>FIESTA
 </title>
-      <link>https://graysonwhite.com/software/fiesta/</link>
+      <link>https://graysonwhite.github.io/software/fiesta/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwhite.com/software/fiesta/</guid>
+      <guid>https://graysonwhite.github.io/software/fiesta/</guid>
       <description>Overview The R package, FIESTA (Forest Inventory ESTimation and Analysis) is a research estimation tool for analysts that work with sample-based inventory data from the U.S. Department of Agriculture, Forest Service, Forest Inventory and Analysis (FIA) Program. FIESTA can generate FIA’s traditional state-wide estimates while also accommodate: unique population boundaries, different evaluation time periods, customized stratification schemes, non-standard variance equations, integration of multi-scale remotely-sensed data and other auxiliary information, and interaction with other modeling and estimation tools from CRAN’s library of packages.</description>
     </item>
     
     <item>
       <title>Hierarchical Bayesian Small Area Estimation Using Weakly Informative Priors in Ecologically Homogeneous Areas of the Interior Western Forests
 </title>
-      <link>https://graysonwhite.com/publications/frontiers-hb/</link>
+      <link>https://graysonwhite.github.io/publications/frontiers-hb/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwhite.com/publications/frontiers-hb/</guid>
+      <guid>https://graysonwhite.github.io/publications/frontiers-hb/</guid>
       <description>Abstract The U.S. Forest Inventory and Analysis Program (FIA) collects inventory data on and computes estimates for many forest attributes to monitor the status and trends of the nation&amp;rsquo;s forests. Increasingly, FIA needs to produce estimates in small geographic and temporal regions. In this application, we implement area level hierarchical Bayesian (HB) small area estimators of several forest attributes for ecosubsections in the Interior West of the US. We use a remotely-sensed auxiliary variable, percent tree canopy cover, to predict response variables derived from ground-collected data such as basal area, biomass, tree count, and volume.</description>
     </item>
     
     <item>
       <title>gglm
 </title>
-      <link>https://graysonwhite.com/software/gglm/</link>
+      <link>https://graysonwhite.github.io/software/gglm/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwhite.com/software/gglm/</guid>
+      <guid>https://graysonwhite.github.io/software/gglm/</guid>
       <description>Overview gglm, The Grammar of Graphics for Linear Model Diagnostics, is an R package and official ggplot2 extension that creates beautiful ggplot2 diagnostic plots for linear models that are easy to use and adhere to The Grammar of Graphics. The purpose of this package is to provide a sensible alternative to using the base-R plot() function to produce diagnostic plots for linear models.
 Access gglm is available on CRAN and on GitHub.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://graysonwhite.com/contact/</link>
+      <link>https://graysonwhite.github.io/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
-      <guid>https://graysonwhite.com/contact/</guid>
+      <guid>https://graysonwhite.github.io/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
     <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>https://graysonwhite.com/elements/</link>
+      <link>https://graysonwhite.github.io/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>https://graysonwhite.com/elements/</guid>
+      <guid>https://graysonwhite.github.io/elements/</guid>
       <description>Font Sizes A A A A A A A A 6rem
 (96px) 5rem
 (80px) 3rem
@@ -78,10 +78,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     
     <item>
       <title>Contributors</title>
-      <link>https://graysonwhite.com/contributors/</link>
+      <link>https://graysonwhite.github.io/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwhite.com/contributors/</guid>
+      <guid>https://graysonwhite.github.io/contributors/</guid>
       <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
 Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
 Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
@@ -90,10 +90,10 @@ Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreen
     
     <item>
       <title>License</title>
-      <link>https://graysonwhite.com/license/</link>
+      <link>https://graysonwhite.github.io/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://graysonwhite.com/license/</guid>
+      <guid>https://graysonwhite.github.io/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
