@@ -113,18 +113,23 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/pubs/"
+    url = "/publications/"
     weight = 2
+  [[menu.header]]
+    name = "Software"
+    title = "Software"
+    url = "/software/"
+    weight = 3
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/CV/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
@@ -137,11 +142,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
