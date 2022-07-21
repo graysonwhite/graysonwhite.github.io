@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Adobe Devanagari';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('../fonts/AdobeDevanagari-Regular.woff2') format('woff2'), 
+       url('../fonts/AdobeDevanagari-Regular.woff') format('woff'); 
+}
+
+@font-face {
+  font-family: 'Adobe Devanagari';
+  font-style: italic;
+  font-weight: 600;
+  src: local(''),
+       url('../fonts/AdobeDevanagari-Italic.woff2') format('woff2'), 
+       url('../fonts/AdobeDevanagari-Italic.woff') format('woff'); 
+}
+
+@font-face {
+  font-family: 'Adobe Devanagari';
+  font-style: bold;
+  font-weight: 600;
+  src: local(''),
+       url('../fonts/AdobeDevanagari-Bold.woff2') format('woff2'), 
+       url('../fonts/AdobeDevanagari-Bold.woff') format('woff'); 
+}
