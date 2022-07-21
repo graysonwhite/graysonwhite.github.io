@@ -5,7 +5,7 @@ draft: false
 excerpt: Grammar of Graphics for Linear Model Diagnostic Plots
 layout: single
 title: >
-  FIESTA
+  gglm
 ---
 
 ### Overview
