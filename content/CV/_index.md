@@ -1,6 +1,5 @@
 ---
 cascade:
-description: |
-  You can access a copy of my most current CV [here](/Grayson_White_CV.pdf). Last updated July 2022. 
-title: CV
+description: You can access a current (July 2022) copy of my CV [here](/Grayson_White_CV.pdf). 
+title: CV 
 ---
