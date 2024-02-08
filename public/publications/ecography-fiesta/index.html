@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.101.0" />
-<title>Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+<title>FIESTA: A forest inventory estimation and analysis R package
  | Grayson White</title>
 
 
@@ -25,31 +25,31 @@
   
     
   
-<meta name="description" content="Frontiers in Forests and Global Change.">
+<meta name="description" content="Ecography.">
 
 
 <meta property="og:site_name" content="Grayson White">
-<meta property="og:title" content="Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+<meta property="og:title" content="FIESTA: A forest inventory estimation and analysis R package
  | Grayson White">
-<meta property="og:description" content="Frontiers in Forests and Global Change." />
+<meta property="og:description" content="Ecography." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://graysonwhite.com/publications/frontiers-fiesta/" />
+<meta property="og:url" content="https://graysonwhite.com/publications/ecography-fiesta/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://graysonwhite.com/publications/frontiers-fiesta/featured-hex.png" >
+        <meta property="og:image" content="https://graysonwhite.com/publications/ecography-fiesta/featured-hex.png" >
         <meta property="twitter:card" content="summary">
-        <meta name="twitter:image" content="https://graysonwhite.com/publications/frontiers-fiesta/featured-hex.png" >
+        <meta name="twitter:image" content="https://graysonwhite.com/publications/ecography-fiesta/featured-hex.png" >
     
     
-  <meta itemprop="name" content="Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+  <meta itemprop="name" content="FIESTA: A forest inventory estimation and analysis R package
 ">
-<meta itemprop="description" content="Abstract This paper demonstrates a process for translating a database of forest measurements to interactive dashboards through which users can access statistically defensible estimates and analyses anywhere in the conterminous US. It taps the extensive Forest Inventory and Analysis (FIA) plot network along with national remotely sensed data layers to produce estimates using widely accepted model-assisted and small area estimation methodologies. It leverages a decade’s worth of statistical and computational research on FIA’s flexible estimation engine, FIESTA, and provides a vehicle through which scientists and analysts can share their own tools and analytical processes."><meta itemprop="datePublished" content="2022-05-25T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2022-05-25T00:00:00+00:00" />
-<meta itemprop="wordCount" content="378"><meta itemprop="image" content="https://graysonwhite.com/publications/frontiers-fiesta/featured-hex.png">
+<meta itemprop="description" content="Abstract Ecologists are increasingly relying on national forest inventories to address a wide variety of issues. The ‘FIESTA’ R package (Forest Inventory ESTimation and Analysis) is a tool that enables customized investigations using the extensive sample-based inventory data collected across all lands in the US by the US Dept of Agriculture, Forest Service, Forest Inventory and Analysis (FIA) Program. To date, the complex nature of the FIA inventory constrains many users to conduct only limited analyses through existing tools with pre-specified geographic boundaries, timeframes, and auxiliary data under a single statistical estimation process."><meta itemprop="datePublished" content="2023-02-16T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-02-16T00:00:00+00:00" />
+<meta itemprop="wordCount" content="216"><meta itemprop="image" content="https://graysonwhite.com/publications/ecography-fiesta/featured-hex.png">
 <meta itemprop="keywords" content="" />
   
   
@@ -104,11 +104,11 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">FIESTA: A forest inventory estimation and analysis R package
 </h1>
         
-        <p class="f6 measure lh-copy mv1">By Tracey S. Frescino, Kelly S. McConville, Grayson W. White, J. Chris Toney, and Gretchen G. Moisen</p>
-        <p class="f7 db mv0 ttu">May 25, 2022</p>
+        <p class="f6 measure lh-copy mv1">By Tracey S. Frescino, Gretchen G. Moisen, Paul L. Patterson, Chris Toney, and Grayson W. White</p>
+        <p class="f7 db mv0 ttu">February 16, 2023</p>
 
       
 
@@ -124,7 +124,24 @@
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
-<p>This paper demonstrates a process for translating a database of forest measurements to interactive dashboards through which users can access statistically defensible estimates and analyses anywhere in the conterminous US. It taps the extensive Forest Inventory and Analysis (FIA) plot network along with national remotely sensed data layers to produce estimates using widely accepted model-assisted and small area estimation methodologies. It leverages a decade’s worth of statistical and computational research on FIA’s flexible estimation engine, FIESTA, and provides a vehicle through which scientists and analysts can share their own tools and analytical processes. This project illustrates one pathway to moving statistical research into operational inventory processes, and makes many model-assisted and small area estimators accessible to the FIA community. To demonstrate the process, continental United States (CONUS)-wide model-assisted and small area estimates are produced for ecosubsections, counties, and level 5 watersheds (HUC 10) and made publicly available through R Shiny dashboards. Target parameters include biomass, basal area, board foot volume, proportion of forest land, cubic foot volume, and live trees per acre. Estimators demonstrated here include: the simplest direct estimator (Horvitz–Thompson), model-assisted estimators (post-stratified, generalized regression estimator, and modified generalized regression estimators), and small area estimators (empirical best linear unbiased predictors and hierarchical Bayes both at the area- and unit-level). Auxiliary data considered in the model-assisted and small area estimators included maps of tree canopy, tree classification, and climatic variables. Estimates for small domain sets were generated nationally within a few hours. Exploring results across estimators and target variables revealed the progressive gains in precision using (in order of least gain to highest gain) Horvitz–Thompson, post-stratification, modified generalized regression estimators, generalized regression estimators, area-level small area models, and unit-level small area models. Substantive gains are realized by expanding model-assisted estimators beyond post-stratification, allowing FIA to continue to take advantage of design-based inference in many cases. Caution is warranted in the use of unit-level small area models due to model mis-specification. The dataset of estimates available through the dashboards provides the opportunity for others to compare estimators and explore precision expectations over specific domains and geographic regions. The dashboards also provide a forum for future development and analyses.</p>
+<p>Ecologists are increasingly relying on national forest inventories to address a wide
+variety of issues. The ‘FIESTA’ R package (Forest Inventory ESTimation and Analysis) is a
+tool that enables customized investigations using the extensive sample-based inventory
+data collected across all lands in the US by the US Dept of Agriculture, Forest Service,
+Forest Inventory and Analysis (FIA) Program. To date, the complex nature of the FIA
+inventory constrains many users to conduct only limited analyses through existing
+tools with pre-specified geographic boundaries, timeframes, and auxiliary data under
+a single statistical estimation process. Yet, the rapid evolution of available remotely
+sensed data and statistical methods present the opportunity to conduct spatial and
+temporal analyses of forest attributes that are much more relevant to many pressing
+ecological, environmental, economic, and social issues in the US, The ‘FIESTA’ package
+was developed to augment the current set of available tools by providing a flexible
+platform that accommodates evolving technologies and leading-edge estimation
+techniques. The package contains a collection of functions that can query FIA databases,
+summarize sample-based inventory data, extract and aggregate auxiliary spatial data,
+and generate estimates with associated variances. The ‘FIESTA’ R package is available
+on 
+<a href="https://cran.r-project.org/package=FIESTA" target="_blank" rel="noopener">CRAN</a>.</p>
 
 
 
@@ -136,18 +153,18 @@
     </svg></a>
 </h3>
 <p>This publication is open-access and can be found 
-<a href="https://www.frontiersin.org/articles/10.3389/ffgc.2022.779446/" target="_blank" rel="noopener">here</a>, or you can download the PDF of this publication 
-<a href="https://www.frontiersin.org/articles/10.3389/ffgc.2022.779446/pdf" target="_blank" rel="noopener">here.</a></p>
+<a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06428" target="_blank" rel="noopener">here</a>, or you can download the PDF of this publication 
+<a href="https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.06428" target="_blank" rel="noopener">here.</a></p>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">May 25, 2022</dd>
+    <dd class="fw5 ml0">February 16, 2023</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">2 minute read, 378 words</dd>
+    <dd class="fw5 ml0">2 minute read, 216 words</dd>
   </dl>
   
   
@@ -163,14 +180,10 @@
         <div class="post-pagination dt w-100 mt4 mb2">
   
   
-    <a class="prev dtc pr2 tl v-top fw6"
-    href="https://graysonwhite.com/publications/ecography-fiesta/">&larr; FIESTA: A forest inventory estimation and analysis R package
-</a>
-  
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://graysonwhite.com/publications/frontiers-hb/">Hierarchical Bayesian Small Area Estimation Using Weakly Informative Priors in Ecologically Homogeneous Areas of the Interior Western Forests
+    href="https://graysonwhite.com/publications/frontiers-fiesta/">Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
  &rarr;</a>
   
 </div>

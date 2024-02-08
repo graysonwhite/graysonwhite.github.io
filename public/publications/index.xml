@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2022 Grayson White</copyright>
-    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIESTA: A forest inventory estimation and analysis R package
+</title>
+      <link>https://graysonwhite.com/publications/ecography-fiesta/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwhite.com/publications/ecography-fiesta/</guid>
+      <description>Abstract Ecologists are increasingly relying on national forest inventories to address a wide variety of issues. The ‘FIESTA’ R package (Forest Inventory ESTimation and Analysis) is a tool that enables customized investigations using the extensive sample-based inventory data collected across all lands in the US by the US Dept of Agriculture, Forest Service, Forest Inventory and Analysis (FIA) Program. To date, the complex nature of the FIA inventory constrains many users to conduct only limited analyses through existing tools with pre-specified geographic boundaries, timeframes, and auxiliary data under a single statistical estimation process.</description>
+    </item>
+    
     <item>
       <title>Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
 </title>
