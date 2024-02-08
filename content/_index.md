@@ -8,7 +8,7 @@ images:
 - img/mt-constitution.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: Doctoral Student in Statistics & Forestry
+subtitle: Doctoral Student in Forestry, Masters Student in Statistics
 text_align_left: false
 title: Grayson White
 type: home
