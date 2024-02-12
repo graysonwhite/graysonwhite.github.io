@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2022 Grayson White</copyright>
-    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
+</title>
+      <link>https://graysonwhite.com/publications/rse-biomass/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwhite.com/publications/rse-biomass/</guid>
+      <description>Abstract Providing forest biomass estimates with desired accuracy and precision for small areas is a key challenge to incorporating forest carbon offsets into commodity trading programs. Enrolled forest carbon projects and verification entities typically rely on probabilistically sampled field data and design-based (DB) estimators to estimate carbon storage and characterize uncertainty. However, this methodology requires a large amount of field data to achieve sufficient precision and collection of these data can be prohibitively expensive.</description>
+    </item>
+    
     <item>
       <title>FIESTA: A forest inventory estimation and analysis R package
 </title>
@@ -29,7 +39,7 @@
     </item>
     
     <item>
-      <title>Hierarchical Bayesian Small Area Estimation Using Weakly Informative Priors in Ecologically Homogeneous Areas of the Interior Western Forests
+      <title>Hierarchical Bayesian small area estimation using weakly informative priors in ecologically homogeneous areas of the interior western forests
 </title>
       <link>https://graysonwhite.com/publications/frontiers-hb/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>

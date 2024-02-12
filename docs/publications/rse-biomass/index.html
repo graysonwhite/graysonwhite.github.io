@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.101.0" />
-<title>Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+<title>An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
  | Grayson White</title>
 
 
@@ -25,31 +25,31 @@
   
     
   
-<meta name="description" content="Frontiers in Forests and Global Change.">
+<meta name="description" content="Remote Sensing of Environment.">
 
 
 <meta property="og:site_name" content="Grayson White">
-<meta property="og:title" content="Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+<meta property="og:title" content="An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
  | Grayson White">
-<meta property="og:description" content="Frontiers in Forests and Global Change." />
+<meta property="og:description" content="Remote Sensing of Environment." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://graysonwhite.com/publications/frontiers-fiesta/" />
+<meta property="og:url" content="https://graysonwhite.com/publications/rse-biomass/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://graysonwhite.com/publications/frontiers-fiesta/featured-hex.png" >
+        <meta property="og:image" content="https://graysonwhite.com/publications/rse-biomass/featured-hex.png" >
         <meta property="twitter:card" content="summary">
-        <meta name="twitter:image" content="https://graysonwhite.com/publications/frontiers-fiesta/featured-hex.png" >
+        <meta name="twitter:image" content="https://graysonwhite.com/publications/rse-biomass/featured-hex.png" >
     
     
-  <meta itemprop="name" content="Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+  <meta itemprop="name" content="An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
 ">
-<meta itemprop="description" content="Abstract This paper demonstrates a process for translating a database of forest measurements to interactive dashboards through which users can access statistically defensible estimates and analyses anywhere in the conterminous US. It taps the extensive Forest Inventory and Analysis (FIA) plot network along with national remotely sensed data layers to produce estimates using widely accepted model-assisted and small area estimation methodologies. It leverages a decade’s worth of statistical and computational research on FIA’s flexible estimation engine, FIESTA, and provides a vehicle through which scientists and analysts can share their own tools and analytical processes."><meta itemprop="datePublished" content="2022-05-25T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2022-05-25T00:00:00+00:00" />
-<meta itemprop="wordCount" content="378"><meta itemprop="image" content="https://graysonwhite.com/publications/frontiers-fiesta/featured-hex.png">
+<meta itemprop="description" content="Abstract Providing forest biomass estimates with desired accuracy and precision for small areas is a key challenge to incorporating forest carbon offsets into commodity trading programs. Enrolled forest carbon projects and verification entities typically rely on probabilistically sampled field data and design-based (DB) estimators to estimate carbon storage and characterize uncertainty. However, this methodology requires a large amount of field data to achieve sufficient precision and collection of these data can be prohibitively expensive."><meta itemprop="datePublished" content="2023-06-22T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-06-22T00:00:00+00:00" />
+<meta itemprop="wordCount" content="380"><meta itemprop="image" content="https://graysonwhite.com/publications/rse-biomass/featured-hex.png">
 <meta itemprop="keywords" content="" />
   
   
@@ -104,11 +104,11 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
 </h1>
         
-        <p class="f6 measure lh-copy mv1">By Tracey S. Frescino, Kelly S. McConville, Grayson W. White, J. Chris Toney, and Gretchen G. Moisen</p>
-        <p class="f7 db mv0 ttu">May 25, 2022</p>
+        <p class="f6 measure lh-copy mv1">By Ethan Emick, Chad Babcock, Grayson W. White, Andrew T. Hudak, Grant M. Domke, and Andrew O. Finley</p>
+        <p class="f7 db mv0 ttu">June 22, 2023</p>
 
       
 
@@ -124,7 +124,30 @@
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
-<p>This paper demonstrates a process for translating a database of forest measurements to interactive dashboards through which users can access statistically defensible estimates and analyses anywhere in the conterminous US. It taps the extensive Forest Inventory and Analysis (FIA) plot network along with national remotely sensed data layers to produce estimates using widely accepted model-assisted and small area estimation methodologies. It leverages a decade’s worth of statistical and computational research on FIA’s flexible estimation engine, FIESTA, and provides a vehicle through which scientists and analysts can share their own tools and analytical processes. This project illustrates one pathway to moving statistical research into operational inventory processes, and makes many model-assisted and small area estimators accessible to the FIA community. To demonstrate the process, continental United States (CONUS)-wide model-assisted and small area estimates are produced for ecosubsections, counties, and level 5 watersheds (HUC 10) and made publicly available through R Shiny dashboards. Target parameters include biomass, basal area, board foot volume, proportion of forest land, cubic foot volume, and live trees per acre. Estimators demonstrated here include: the simplest direct estimator (Horvitz–Thompson), model-assisted estimators (post-stratified, generalized regression estimator, and modified generalized regression estimators), and small area estimators (empirical best linear unbiased predictors and hierarchical Bayes both at the area- and unit-level). Auxiliary data considered in the model-assisted and small area estimators included maps of tree canopy, tree classification, and climatic variables. Estimates for small domain sets were generated nationally within a few hours. Exploring results across estimators and target variables revealed the progressive gains in precision using (in order of least gain to highest gain) Horvitz–Thompson, post-stratification, modified generalized regression estimators, generalized regression estimators, area-level small area models, and unit-level small area models. Substantive gains are realized by expanding model-assisted estimators beyond post-stratification, allowing FIA to continue to take advantage of design-based inference in many cases. Caution is warranted in the use of unit-level small area models due to model mis-specification. The dataset of estimates available through the dashboards provides the opportunity for others to compare estimators and explore precision expectations over specific domains and geographic regions. The dashboards also provide a forum for future development and analyses.</p>
+<p>Providing forest biomass estimates with desired accuracy and precision for small areas is a key challenge to
+incorporating forest carbon offsets into commodity trading programs. Enrolled forest carbon projects and
+verification entities typically rely on probabilistically sampled field data and design-based (DB) estimators to
+estimate carbon storage and characterize uncertainty. However, this methodology requires a large amount of field
+data to achieve sufficient precision and collection of these data can be prohibitively expensive. This has spurred
+interest in developing regional-scale maps of forest biomass that incorporate remote sensing data as an
+alternative to collecting expensive plot data. These maps are often generated using machine learning (ML) algorithms
+that combine remote sensing products and field measurements. While these maps can produce estimates across
+large geographic regions at fine spatial resolutions, the estimates are prone to bias and do not have associated
+uncertainty estimates. Here, we assess one such map developed by the National Aeronautics and Space
+Administration’s Carbon Monitoring System. We consider model-assisted (MA) and geostatistical model-based
+(GMB) estimators to address map bias and uncertainty quantification. The MA and GMB estimators use a sample
+of field observations as the response, and the ML-produced map as an auxiliary variable to achieve statistically
+defensible predictions. We compare MA and GMB estimator performance to DB and direct (DR) estimators.
+This assessment considers both counties and a small areal extent experimental forest, all within
+Oregon USA. Results suggest the MA and GMB estimators perform similar to the DB estimator at the state level
+and in counties containing many field plots. But in counties with moderate to small field sample sizes, the GMB
+and MA estimators are more precise than the DB estimator. As within-county sample sizes get smaller, the GMB
+estimator tends to outperform MA. Results also show the DR estimator’s state-level estimates are substantially
+larger than the DB, MA and GMB estimates, indicating that that the DR estimator may be biased. When assessing
+the GMB estimator for the experimental forest, we find the GMB estimator has sufficient precision for stand-level
+carbon accounting even when no field observations are available within the stand. Plot-level GMB uncertainty
+interval coverage probabilities were estimated and showed adequate coverage. This suggests that the GMB
+estimator is producing statistically rigorous uncertainty estimates.</p>
 
 
 
@@ -135,19 +158,18 @@
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
-<p>This publication is open-access and can be found 
-<a href="https://www.frontiersin.org/articles/10.3389/ffgc.2022.779446/" target="_blank" rel="noopener">here</a>, or you can download the PDF of this publication 
-<a href="https://www.frontiersin.org/articles/10.3389/ffgc.2022.779446/pdf" target="_blank" rel="noopener">here.</a></p>
+<p>This publication can be found 
+<a href="https://www.sciencedirect.com/science/article/pii/S0034425723002298" target="_blank" rel="noopener">here</a>.</p>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">May 25, 2022</dd>
+    <dd class="fw5 ml0">June 22, 2023</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">2 minute read, 378 words</dd>
+    <dd class="fw5 ml0">2 minute read, 380 words</dd>
   </dl>
   
   
@@ -163,14 +185,10 @@
         <div class="post-pagination dt w-100 mt4 mb2">
   
   
-    <a class="prev dtc pr2 tl v-top fw6"
-    href="https://graysonwhite.com/publications/ecography-fiesta/">&larr; FIESTA: A forest inventory estimation and analysis R package
-</a>
-  
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://graysonwhite.com/publications/frontiers-hb/">Hierarchical Bayesian small area estimation using weakly informative priors in ecologically homogeneous areas of the interior western forests
+    href="https://graysonwhite.com/publications/ecography-fiesta/">FIESTA: A forest inventory estimation and analysis R package
  &rarr;</a>
   
 </div>

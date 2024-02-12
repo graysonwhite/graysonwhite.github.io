@@ -5,7 +5,7 @@ draft: false
 excerpt: Frontiers in Forests and Global Change.
 layout: single
 title: >
-  Hierarchical Bayesian Small Area Estimation Using Weakly Informative Priors in Ecologically Homogeneous Areas of the Interior Western Forests
+  Hierarchical Bayesian small area estimation using weakly informative priors in ecologically homogeneous areas of the interior western forests
 ---
 
 ### Abstract
