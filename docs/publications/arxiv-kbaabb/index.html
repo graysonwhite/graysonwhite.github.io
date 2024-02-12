@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.101.0" />
-<title>An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
+<title>[preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
  | Grayson White</title>
 
 
@@ -25,31 +25,31 @@
   
     
   
-<meta name="description" content="Remote Sensing of Environment.">
+<meta name="description" content="arXiv preprint.">
 
 
 <meta property="og:site_name" content="Grayson White">
-<meta property="og:title" content="An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
+<meta property="og:title" content="[preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
  | Grayson White">
-<meta property="og:description" content="Remote Sensing of Environment." />
+<meta property="og:description" content="arXiv preprint." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://graysonwhite.com/publications/rse-biomass/" />
+<meta property="og:url" content="https://graysonwhite.com/publications/arxiv-kbaabb/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://graysonwhite.com/publications/rse-biomass/featured-hex.png" >
+        <meta property="og:image" content="https://graysonwhite.com/publications/arxiv-kbaabb/featured-hex.png" >
         <meta property="twitter:card" content="summary">
-        <meta name="twitter:image" content="https://graysonwhite.com/publications/rse-biomass/featured-hex.png" >
+        <meta name="twitter:image" content="https://graysonwhite.com/publications/arxiv-kbaabb/featured-hex.png" >
     
     
-  <meta itemprop="name" content="An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
+  <meta itemprop="name" content="[preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
 ">
-<meta itemprop="description" content="Abstract Providing forest biomass estimates with desired accuracy and precision for small areas is a key challenge to incorporating forest carbon offsets into commodity trading programs. Enrolled forest carbon projects and verification entities typically rely on probabilistically sampled field data and design-based (DB) estimators to estimate carbon storage and characterize uncertainty. However, this methodology requires a large amount of field data to achieve sufficient precision and collection of these data can be prohibitively expensive."><meta itemprop="datePublished" content="2023-06-22T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-06-22T00:00:00+00:00" />
-<meta itemprop="wordCount" content="380"><meta itemprop="image" content="https://graysonwhite.com/publications/rse-biomass/featured-hex.png">
+<meta itemprop="description" content="Abstract Comparing and evaluating small area estimation (SAE) models for a given application is inherently difficult. Typically, we do not have enough data in many areas to check unit-level modeling assumptions or to assess unit-level predictions empirically; and there is no ground truth available for checking area-level estimates. Design-based simulation from artificial populations can help with each of these issues, but only if the artificial populations (a) realistically represent the application at hand and (b) are not built using assumptions that could inherently favor one SAE model over another."><meta itemprop="datePublished" content="2023-06-27T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-06-27T00:00:00+00:00" />
+<meta itemprop="wordCount" content="221"><meta itemprop="image" content="https://graysonwhite.com/publications/arxiv-kbaabb/featured-hex.png">
 <meta itemprop="keywords" content="" />
   
   
@@ -104,11 +104,11 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">[preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
 </h1>
         
-        <p class="f6 measure lh-copy mv1">By Ethan Emick, Chad Babcock, Grayson W. White, Andrew T. Hudak, Grant M. Domke, and Andrew O. Finley</p>
-        <p class="f7 db mv0 ttu">June 22, 2023</p>
+        <p class="f6 measure lh-copy mv1">By Jerzy A. Weiczorek, Grayson W. White, Zachariah W. Cody, Emily X. Tan, Jacqueline O. Chistolini, Kelly S. McConville, Tracey S. Frescino, and Gretchen G. Moisen</p>
+        <p class="f7 db mv0 ttu">June 27, 2023</p>
 
       
 
@@ -124,30 +124,7 @@
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
-<p>Providing forest biomass estimates with desired accuracy and precision for small areas is a key challenge to
-incorporating forest carbon offsets into commodity trading programs. Enrolled forest carbon projects and
-verification entities typically rely on probabilistically sampled field data and design-based (DB) estimators to
-estimate carbon storage and characterize uncertainty. However, this methodology requires a large amount of field
-data to achieve sufficient precision and collection of these data can be prohibitively expensive. This has spurred
-interest in developing regional-scale maps of forest biomass that incorporate remote sensing data as an
-alternative to collecting expensive plot data. These maps are often generated using machine learning (ML) algorithms
-that combine remote sensing products and field measurements. While these maps can produce estimates across
-large geographic regions at fine spatial resolutions, the estimates are prone to bias and do not have associated
-uncertainty estimates. Here, we assess one such map developed by the National Aeronautics and Space
-Administration’s Carbon Monitoring System. We consider model-assisted (MA) and geostatistical model-based
-(GMB) estimators to address map bias and uncertainty quantification. The MA and GMB estimators use a sample
-of field observations as the response, and the ML-produced map as an auxiliary variable to achieve statistically
-defensible predictions. We compare MA and GMB estimator performance to DB and direct (DR) estimators.
-This assessment considers both counties and a small areal extent experimental forest, all within
-Oregon USA. Results suggest the MA and GMB estimators perform similar to the DB estimator at the state level
-and in counties containing many field plots. But in counties with moderate to small field sample sizes, the GMB
-and MA estimators are more precise than the DB estimator. As within-county sample sizes get smaller, the GMB
-estimator tends to outperform MA. Results also show the DR estimator’s state-level estimates are substantially
-larger than the DB, MA and GMB estimates, indicating that that the DR estimator may be biased. When assessing
-the GMB estimator for the experimental forest, we find the GMB estimator has sufficient precision for stand-level
-carbon accounting even when no field observations are available within the stand. Plot-level GMB uncertainty
-interval coverage probabilities were estimated and showed adequate coverage. This suggests that the GMB
-estimator is producing statistically rigorous uncertainty estimates.</p>
+<p>Comparing and evaluating small area estimation (SAE) models for a given application is inherently difficult. Typically, we do not have enough data in many areas to check unit-level modeling assumptions or to assess unit-level predictions empirically; and there is no ground truth available for checking area-level estimates. Design-based simulation from artificial populations can help with each of these issues, but only if the artificial populations (a) realistically represent the application at hand and (b) are not built using assumptions that could inherently favor one SAE model over another. In this paper, we borrow ideas from random hot deck, approximate Bayesian bootstrap (ABB), and k nearest neighbor (kNN) imputation methods, which are often used for multiple imputation of missing data. We propose a kNN-based approximation to ABB (KBAABB) for a different purpose: generating an artificial population when rich unit-level auxiliary data is available. We introduce diagnostic checks on the process of building the artificial population itself, and we demonstrate how to use such an artificial population for design-based simulation studies to compare and evaluate SAE models, using real data from the Forest Inventory and Analysis (FIA) program of the US Forest Service. We illustrate how such simulation studies may be disseminated and explored interactively through an online R Shiny application.</p>
 
 
 
@@ -158,18 +135,18 @@ estimator is producing statistically rigorous uncertainty estimates.</p>
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
-<p>This publication can be found 
-<a href="https://www.sciencedirect.com/science/article/pii/S0034425723002298" target="_blank" rel="noopener">here</a>.</p>
+<p>This is a preprint that can be found 
+<a href="https://arxiv.org/abs/2306.15607" target="_blank" rel="noopener">on arXiv.</a></p>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">June 22, 2023</dd>
+    <dd class="fw5 ml0">June 27, 2023</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">2 minute read, 380 words</dd>
+    <dd class="fw5 ml0">2 minute read, 221 words</dd>
   </dl>
   
   
@@ -186,13 +163,13 @@ estimator is producing statistically rigorous uncertainty estimates.</p>
   
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="https://graysonwhite.com/publications/arxiv-kbaabb/">&larr; [preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
+    href="https://graysonwhite.com/publications/arxiv-zeroinflation/">&larr; [preprint]: Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data
 </a>
   
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="https://graysonwhite.com/publications/ecography-fiesta/">FIESTA: A forest inventory estimation and analysis R package
+    href="https://graysonwhite.com/publications/rse-biomass/">An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
  &rarr;</a>
   
 </div>

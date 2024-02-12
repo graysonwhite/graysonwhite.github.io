@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>2022 Grayson White</copyright>
-    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://graysonwhite.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[preprint]: Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data
+</title>
+      <link>https://graysonwhite.com/publications/arxiv-zeroinflation/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwhite.com/publications/arxiv-zeroinflation/</guid>
+      <description>Abstract The U.S. Forest Inventory &amp;amp; Analysis Program (FIA) collects data on and monitors the trends of forests in the United States. FIA is increasingly interested in monitoring forest attributes such as biomass at fine geographic and temporal scales, resulting in a need for assessment and development of small area estimation techniques applied to forest inventory contexts. We implement a small area estimator and parametric bootstrap estimator that account for zero-inflation in biomass data via a two-stage model-based approach.</description>
+    </item>
+    
+    <item>
+      <title>[preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
+</title>
+      <link>https://graysonwhite.com/publications/arxiv-kbaabb/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwhite.com/publications/arxiv-kbaabb/</guid>
+      <description>Abstract Comparing and evaluating small area estimation (SAE) models for a given application is inherently difficult. Typically, we do not have enough data in many areas to check unit-level modeling assumptions or to assess unit-level predictions empirically; and there is no ground truth available for checking area-level estimates. Design-based simulation from artificial populations can help with each of these issues, but only if the artificial populations (a) realistically represent the application at hand and (b) are not built using assumptions that could inherently favor one SAE model over another.</description>
+    </item>
+    
     <item>
       <title>An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps
 </title>
