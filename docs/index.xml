@@ -19,6 +19,17 @@
     </item>
     
     <item>
+      <title>kbaabb
+</title>
+      <link>https://graysonwhite.com/software/kbaabb/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://graysonwhite.com/software/kbaabb/</guid>
+      <description>Overview The kbaabb R package provides tools for generating an artificial population based on a kNN-based approximation to the approximate Bayesian bootstrap (KBAABB). This methodology is described in Wieczorek et al. (2024+).
+Access FIESTA is available on GitHub.</description>
+    </item>
+    
+    <item>
       <title>[preprint]: Assessing small area estimates via artificial populations from KBAABB: a kNN-based approximation to ABB
 </title>
       <link>https://graysonwhite.com/publications/arxiv-kbaabb/</link>
