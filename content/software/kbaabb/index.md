@@ -1,5 +1,5 @@
 ---
-author: Tracey S. Frescino, Gretchen G. Moisen, Paul L. Patterson, J. Chris Toney, and Grayson W. White
+author: Grayson W. White, Jerzy A. Wieczorek, Tracey S. Frescino, and Kelly S. McConville
 date: "2024-02-05"
 draft: false
 excerpt: A kNN-based approximation to the approximate Bayesian bootstrap 
