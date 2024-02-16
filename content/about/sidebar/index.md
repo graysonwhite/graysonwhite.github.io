@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Grayson White"
-role: "Doctoral Student, Statistics & Forestry"
+role: "Doctoral Student, MSU Finley Lab"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: 
