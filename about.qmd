@@ -1,0 +1,10 @@
+---
+title: "About me"
+---
+
+I’m Grayson, a doctoral student in the Finley Lab at Michigan State University working on a Ph.D. in Forestry and M.S. in Statistics. Prior to attending Michigan State, I worked as a Data Scientist contracting with the USDA Forest Service where I primarily worked on the development and public release of the FIESTA R package. Prior to that, I received a Bachelor of Arts in Mathematics with a concentration in statistics at Reed College in Portland, Oregon.
+
+My research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, teaching data science and statistics, and statistical software development. A list of my publications and other scholarly activity is available [here](research.qmd). I also enjoy writing, maintaining, and contributing to statistical software. A few of my favorite pieces of statistical software that I have worked on are FIESTA (co-author, maintainer), for estimation and analysis of forest inventory data, and gglm (author, maintainer), for easily making diagnostic plots for linear models using ggplot2.
+
+Outside of research I enjoy exploring new places with my dog, Dude, camping, cycling, and trying my best to perfect my home espresso skills and technique.
+

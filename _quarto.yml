@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Grayson W. White"
+  site-url: "https://www.graysonwhite.com/"
+  favicon: assets/favicon.ico
+  navbar:
+    background: "#5B846F"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - assets/styles.scss
+    css: styles.css
+    toc: true
+
+
+

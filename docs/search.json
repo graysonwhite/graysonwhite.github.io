@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m Grayson, a doctoral student in the Finley Lab at Michigan State University working on a Ph.D. in Forestry and M.S. in Statistics. Prior to attending Michigan State, I worked as a Data Scientist contracting with the USDA Forest Service where I primarily worked on the development and public release of the FIESTA R package. Prior to that, I received a Bachelor of Arts in Mathematics with a concentration in statistics at Reed College in Portland, Oregon.\nMy research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, teaching data science and statistics, and statistical software development. A list of my publications and other scholarly activity is available here. I also enjoy writing, maintaining, and contributing to statistical software. A few of my favorite pieces of statistical software that I have worked on are FIESTA (co-author, maintainer), for estimation and analysis of forest inventory data, and gglm (author, maintainer), for easily making diagnostic plots for linear models using ggplot2.\nOutside of research I enjoy exploring new places with my dog, Dude, camping, cycling, and trying my best to perfect my home espresso skills and technique."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "White G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2024+) Assessing small area estimates via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607\nWhite G.W., Yamamoto J.K., Elsyad D.H., Schmitt J.F., Korsgaard N.H., Hu J.K., Gaines III G.C., Frescino T.S., and McConville K.S. (2024+) Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. arXiv preprint. https://arxiv.org/abs/2402.03263"
+  },
+  {
+    "objectID": "research.html#preprints",
+    "href": "research.html#preprints",
+    "title": "Research",
+    "section": "",
+    "text": "White G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2024+) Assessing small area estimates via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607\nWhite G.W., Yamamoto J.K., Elsyad D.H., Schmitt J.F., Korsgaard N.H., Hu J.K., Gaines III G.C., Frescino T.S., and McConville K.S. (2024+) Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. arXiv preprint. https://arxiv.org/abs/2402.03263"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nEmick E., Babcock C., White G.W., Hudak A.T., Domke G.M., and Finley A.O. (2023) An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps. Remote Sensing of Environment. 295, 113678, https://doi.org/10.1016/j.rse.2023.113678\nFrescino T.S., Moisen G.G., Patterson P.L., Toney J.C., and White G.W. (2023) FIESTA: a forest inventory estimation and analysis R package. Ecography. 7, e06428, https://doi.org/10.1111/ecog.06428\nFrescino T.S., McConville K.S., White G.W., Toney, J.C., and Moisen G.G. (2022) Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA. Frontiers in Forests and Global Change. 5, 107, https://doi.org/10.3389/ffgc.2022.779446\nWhite G.W., McConville K.S., Moisen G.G., and Frescino T.S. (2021) Hierarchical Bayesian Small Area Estimation Using Weakly Informative Priors in Ecologically Homogeneous Areas of the Interior Western Forests. Frontiers in Forests and Global Change. 4, 178, https://doi.org/10.3389/ffgc.2021.752911"
+  },
+  {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\n\nGrayson W. White, Hannah Frick, and Simon Couch (2024). forested: Forest Attributes in Washington State. R package version 0.1.0. https://CRAN.R-project.org/package=forested\nGrayson W. White, Jerzy A. Wieczorek, Tracey S. Frescino, and Kelly S. McConville (2024). kbaabb: A kNN-based approximation to the approximate Bayesian bootstrap. R package version 0.0.0.9000. https://github.com/graysonwhite/kbaabb/\nTracey S. Frescino, Gretchen G. Moisen, Paul L. Patterson, J. Chris Toney, and Grayson W. White (2022). FIESTA: A forest inventory estimation and analysis R package. R package version 3.6.4. https://cran.r-project.org/package=FIESTA\nGrayson W. White (2020). gglm: Grammar of Graphics for Linear Model Diagnostics. R package version 1.0.2. https://CRAN.R-project.org/package=gglm"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grayson W. White",
+    "section": "",
+    "text": "Grayson White is a doctoral student in the Finley Lab at Michigan State University. His interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, teaching data science and statistics, and statistical software development."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grayson W. White",
+    "section": "Education",
+    "text": "Education\nMichigan State University | East Lansing, MI, USA\nPhD in Forestry | Expected May 2026\nM.S. in Statistics | Expected May 2025\nReed College | Portland, OR, USA\nB.A. in Mathematics (concentration Statistics) | 2021"
+  }
+]

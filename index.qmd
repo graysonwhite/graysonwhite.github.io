@@ -1,0 +1,33 @@
+---
+title: "Grayson W. White"
+about:
+  template: trestles
+  image: headshot.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/graysonwhite
+    - icon: email
+      text: Email
+      href: mailto:whitegra@msu.edu
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Grayson White is a doctoral student in the [Finley Lab](https://www.finley-lab.com) at Michigan State University. His interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, teaching data science and statistics, and statistical software development.
+
+## Education
+
+**Michigan State University** | East Lansing, MI, USA
+
+PhD in Forestry | Expected May 2026
+
+M.S. in Statistics | Expected May 2025
+
+**Reed College** | Portland, OR, USA
+
+B.A. in Mathematics (concentration Statistics) | 2021
+
+<!-- ## Experience -->
