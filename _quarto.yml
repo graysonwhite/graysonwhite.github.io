@@ -11,6 +11,8 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: teaching.qmd
+        text: Teaching
       - href: research.qmd
         text: Research
       - href: about.qmd

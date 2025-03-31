@@ -16,18 +16,24 @@ format:
     toc: false
 ---
 
-Grayson White is a doctoral student in the [Finley Lab](https://www.finley-lab.com) at Michigan State University. His interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, teaching data science and statistics, and statistical software development.
+Grayson White is a doctoral student in the [Finley Lab](https://www.finley-lab.com) at Michigan State University. His interests are in small area estimation, hierarchical Bayesian modeling, teaching data science and statistics, applications of statistical methods to forestry and natural resources problems, and statistical software development.
 
 ## Education
 
 **Michigan State University** | East Lansing, MI, USA
 
-PhD in Forestry | Expected May 2026
+PhD in Forestry | Expected 2026
 
-M.S. in Statistics | Expected May 2025
+Advisor: Dr. Andrew Finley
+
+M.S. in Statistics | 2025*
+
+*: All course requirements completed, degree to be conferred summer 2025.
 
 **Reed College** | Portland, OR, USA
 
 B.A. in Mathematics (concentration Statistics) | 2021
+
+Thesis advisor: Dr. Kelly McConville
 
 <!-- ## Experience -->

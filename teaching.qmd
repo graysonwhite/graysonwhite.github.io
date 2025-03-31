@@ -1,4 +1,10 @@
 ---
-title: "teaching"
+title: "Teaching"
 editor: source
 ---
+
+As an educator I aim to create an inclusive, safe, welcoming, and productive space for students to engage deeply with statistics and data science concepts. I strive to help students gain confidence in their mathematical, statistical, and programmatic skills by making my courses feel accessible and welcoming, genuinely engaging with questions and feedback from students, and adapting my practices based on continued experience in the classroom. 
+
+At Michigan State University, I was the Instructor for Forestry 128: Practical Computing and Data Science Tools in Fall 2024. My course website is available here: [for128.org](http://www.for128.org). I have also been a Teaching Assistant for Forestry 128 and Forestry 372: Ecological Monitoring and Data Analysis. 
+
+Prior to my time at Michigan State University, I was a Data Science Educator at [Posit](http://www.posit.co). I was also a Course Assistant and Tutor during my time as an undergraduate at Reed College, assisting in courses such as Math 141: Introduction to Probability and Statistics, Math 241: Data Science, Math 392: Mathematical Statistics, and Econ 311: Survey of Econometric Methods.
