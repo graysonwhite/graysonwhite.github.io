@@ -11,14 +11,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
+    "text": "White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates of forest attributes via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
   },
   {
     "objectID": "research.html#preprints",
     "href": "research.html#preprints",
     "title": "Research",
     "section": "",
-    "text": "White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
+    "text": "White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates of forest attributes via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
   },
   {
     "objectID": "research.html#publications",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Grayson W. White",
     "section": "",
-    "text": "Grayson White is a doctoral student in the Finley Lab at Michigan State University. His interests are in small area estimation, hierarchical Bayesian modeling, teaching data science and statistics, applications of statistical methods to forestry and natural resources problems, and statistical software development."
+    "text": "I am a Visiting Assistant Professor of Statistics at Reed College. I am completing my dissertation as a doctoral student in the Finley Lab at Michigan State University (expected 2026). My research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab at Harvard University (Summer 2022, Summer 2023) and at Bucknell University (Summer 2025). I developed the R package gglm in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using ggplot2.\nI believe strongly in extending the reach and impact of research projects via statistical software. Many of my research projects include R packages that implement the methodology, such as saeczi and kbaabb."
   },
   {
     "objectID": "index.html#education",
@@ -54,5 +54,12 @@
     "title": "Grayson W. White",
     "section": "Education",
     "text": "Education\nMichigan State University | East Lansing, MI, USA\nPhD in Forestry | Expected 2026\nAdvisor: Dr. Andrew Finley\nM.S. in Statistics | 2025*\n*: All course requirements completed, degree to be conferred summer 2025.\nReed College | Portland, OR, USA\nB.A. in Mathematics (concentration Statistics) | 2021\nThesis advisor: Dr. Kelly McConville"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Grayson W. White",
+    "section": "",
+    "text": "I am a Visiting Assistant Professor of Statistics at Reed College. I am completing my dissertation as a doctoral student in the Finley Lab at Michigan State University (expected 2026). My research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab at Harvard University (Summer 2022, Summer 2023) and at Bucknell University (Summer 2025). I developed the R package gglm in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using ggplot2.\nI believe strongly in extending the reach and impact of research projects via statistical software. Many of my research projects include R packages that implement the methodology, such as saeczi and kbaabb."
   }
 ]
