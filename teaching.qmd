@@ -5,7 +5,7 @@ editor: source
 
 As an educator I aim to create an inclusive, safe, welcoming, and productive space for students to engage deeply with statistics and data science concepts. I strive to help students gain confidence in their mathematical, statistical, and programmatic skills by making my courses feel accessible and welcoming, genuinely engaging with questions and feedback from students, and adapting my practices based on continued experience in the classroom. 
 
-At Reed College, I will be teaching Math 141: Introduction to Statistics and Probability in Fall 2025 and Math 241: Data Science in Spring 2026.
+At Reed College, I will be teaching Math 141: Introduction to Probability and Statistics in Fall 2025 and Math 241: Data Science in Spring 2026.
 
 At Michigan State University, I was the Instructor for Forestry 128: Practical Computing and Data Science Tools in Fall 2024. My course website is available here: [for128.org](http://www.for128.org). I also was a Teaching Assistant for Forestry 128 and Forestry 372: Ecological Monitoring and Data Analysis. 
 
