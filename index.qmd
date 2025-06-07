@@ -18,7 +18,9 @@ format:
 
 ## Biography
 
-I am a Visiting Assistant Professor of Statistics at Reed College. I am completing my dissertation as a doctoral student in the [Finley Lab](https://www.finley-lab.com) at Michigan State University (expected 2026). My research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. 
+I am a Visiting Assistant Professor of Statistics at Reed College (starting Fall 2025). 
+
+I am completing my dissertation as a doctoral student in the [Finley Lab](https://www.finley-lab.com) at Michigan State University (expected 2026). Primarily, my dissertation research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators. Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. 
 
 I have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab at Harvard University (Summer 2022, Summer 2023) and at Bucknell University (Summer 2025). I developed the `R` package [`gglm`](https://CRAN.R-project.org/package=gglm) in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using `ggplot2`. 
 
