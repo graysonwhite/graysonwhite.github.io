@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Grayson W. White"
+  title: "Grayson White"
   site-url: "https://www.graysonwhite.com/"
   favicon: assets/favicon.ico
   navbar:
