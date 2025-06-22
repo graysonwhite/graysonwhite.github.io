@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "I’m Grayson, a Visiting Assistant Professor of Statistics at Reed College and a doctoral student in the Finley Lab at Michigan State University working on a Ph.D. in Forestry. Prior to attending Michigan State, I worked as a Data Scientist contracting with the USDA Forest Service where I primarily worked on the development and public release of the FIESTA R package. Prior to that, I received a Bachelor of Arts in Mathematics with a concentration in statistics at Reed College in Portland, Oregon.\nMy research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, teaching data science and statistics, and statistical software development. A list of my publications and other scholarly activity is available here. I also enjoy writing, maintaining, and contributing to statistical software. A few of my favorite pieces of statistical software that I have worked on are FIESTA (co-author, maintainer), for estimation and analysis of forest inventory data, and gglm (author, maintainer), for easily making diagnostic plots for linear models using ggplot2.\nOutside of research I enjoy exploring new places with my dog, Dude, camping, cycling, and trying my best to perfect my home espresso skills and technique."
+    "text": "Growing up in the Pacific Northwest, I was immersed in nature from an early age. In turn, outside of being a statistics, data science, and forestry educator and researcher, many of my passions relate to spending time outdoors. Some of my hobbies include exploring new places with my dog (“Dude”, pictured below), cycling, camping, and trying my best to perfect my home espresso skills and technique."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates of forest attributes via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
+    "text": "My research interests lie in small area estimation, hierarchical Bayesian modeling, survey statistics, statistical software, and computing. I am broadly interested in statistical problems motivated by applications to forestry and forest inventory and in answering authentically-motivated research questions from the USDA Forest Service. Central themes in my research include developing novel estimation methods for environmental data and developing simulation-based techniques for the formal evaluation of statistical estimators. I strive to increase practical impact of my research via the development of statistical software such as R packages and interactive dashboards."
   },
   {
     "objectID": "research.html#preprints",
     "href": "research.html#preprints",
     "title": "Research",
-    "section": "",
-    "text": "White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates of forest attributes via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
+    "section": "Preprints",
+    "text": "Preprints\n\nWhite G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. arXiv preprint. https://arxiv.org/abs/2503.22103\nWhite G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates of forest attributes via bootstrap-weighted k-Nearest-Neighbor artificial populations. arXiv preprint. https://arxiv.org/abs/2306.15607"
   },
   {
     "objectID": "research.html#publications",

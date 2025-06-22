@@ -9,7 +9,7 @@ about:
       href: https://github.com/graysonwhite
     - icon: email
       text: Email
-      href: mailto:whitegra@msu.edu
+      href: mailto:grwhite@reed.edu
 format:
   html:
     page-layout: full
