@@ -42,27 +42,6 @@
     "text": "As an educator I aim to create an inclusive, safe, welcoming, and productive space for students to engage deeply with statistics and data science concepts. I strive to help students gain confidence in their mathematical, statistical, and programmatic skills by making my courses feel accessible and welcoming, genuinely engaging with questions and feedback from students, and adapting my practices based on continued experience in the classroom."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Grayson White",
-    "section": "",
-    "text": "I am a Visiting Assistant Professor of Statistics at Reed College (starting Fall 2025). Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. More specifically, my research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab during summers at Harvard University and at Bucknell University.\nI passionately believe in the benefits of statistical software for teaching, learning, and research. I developed the R package gglm in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using ggplot2. Further, in order to extend the reach and impact of my research projects, I have developed R packages the implement the introduced methodology, such as saeczi and kbaabb. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Grayson White",
-    "section": "Education",
-    "text": "Education\nMichigan State University | East Lansing, MI, USA\nPhD in Forestry | Expected 2026\nM.S. in Statistics | 2025\nReed College | Portland, OR, USA\nB.A. in Mathematics (concentration Statistics) | 2021"
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Grayson White",
-    "section": "",
-    "text": "I am a Visiting Assistant Professor of Statistics at Reed College (starting Fall 2025). Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. More specifically, my research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab during summers at Harvard University and at Bucknell University.\nI passionately believe in the benefits of statistical software for teaching, learning, and research. I developed the R package gglm in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using ggplot2. Further, in order to extend the reach and impact of my research projects, I have developed R packages the implement the introduced methodology, such as saeczi and kbaabb. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
-  },
-  {
     "objectID": "teaching.html#courses",
     "href": "teaching.html#courses",
     "title": "Teaching",
@@ -77,10 +56,24 @@
     "text": "Other experience\nPrior to my time in academia, I was a Data Science Educator at Posit. Further, as an undergraduate at Reed College I was a Course Assistant and Tutor for Math 141: Introduction to Probability and Statistics, Math 241: Data Science, Math 392: Mathematical Statistics, and Econ 311: Survey of Econometric Methods."
   },
   {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Grayson White",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nAll requirements completed, degree to be conferred Summer 2025.↩︎"
+    "section": "",
+    "text": "I am a Visiting Assistant Professor of Statistics at Reed College. Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. More specifically, my research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab during summers at Harvard University and at Bucknell University.\nI passionately believe in the benefits of statistical software for teaching, learning, and research. I developed the R package gglm in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using ggplot2. Further, in order to extend the reach and impact of my research projects, I have developed R packages the implement the introduced methodology, such as saeczi and kbaabb. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Grayson White",
+    "section": "",
+    "text": "I am a Visiting Assistant Professor of Statistics at Reed College. Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. More specifically, my research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab during summers at Harvard University and at Bucknell University.\nI passionately believe in the benefits of statistical software for teaching, learning, and research. I developed the R package gglm in order to allow statistics and data science educators to introduce linear model diagnostic plots while staying within tidyverse-syntax and using ggplot2. Further, in order to extend the reach and impact of my research projects, I have developed R packages the implement the introduced methodology, such as saeczi and kbaabb. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grayson White",
+    "section": "Education",
+    "text": "Education\nMichigan State University | East Lansing, MI, USA\nPhD in Forestry | Expected 2026\nM.S. in Statistics | 2025\nReed College | Portland, OR, USA\nB.A. in Mathematics (concentration Statistics) | 2021"
   }
 ]

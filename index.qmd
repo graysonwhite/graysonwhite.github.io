@@ -18,7 +18,7 @@ format:
 
 ## Biography
 
-I am a Visiting Assistant Professor of Statistics at Reed College (starting Fall 2025). Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. More specifically, my research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators. 
+I am a Visiting Assistant Professor of Statistics at Reed College. Generally, my research interests are in small area estimation, hierarchical Bayesian modeling, applications of statistical methods to forestry and natural resources problems, and statistical software development. More specifically, my research focuses on implementing model-based statistical methods for small area estimation of forest attributes, and developing methodologies for formal assessment of those estimators. 
 
 I have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. I have had the great pleasure of co-directing and mentoring students in the Undergraduate Forestry Data Science Lab during summers at Harvard University and at Bucknell University. 
 
