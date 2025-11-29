@@ -11,7 +11,7 @@ As an educator I aim to create an inclusive, safe, welcoming, and productive spa
 
 - Instructor, Math 241: Data Science (Spring 2026)
 
-- Instructor, Math 141: Introduction to Probability and Statistics (Fall 2025)
+- Instructor, [Math 141: Introduction to Probability and Statistics](https://math-141.github.io/) (Fall 2025)
 
 ### At Michigan State University
 

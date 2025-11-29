@@ -9,11 +9,11 @@ My research interests lie in small area estimation, hierarchical Bayesian modeli
 
 -    White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. *arXiv preprint*. [https://arxiv.org/abs/2503.22103](https://arxiv.org/abs/2503.22103)
 
--    White G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025+) Assessing small area estimates of forest attributes via bootstrap-weighted k-Nearest-Neighbor artificial populations. *arXiv preprint*. [https://arxiv.org/abs/2306.15607](https://arxiv.org/abs/2306.15607)
-
 ## Publications
 
--   White G.W., Yamamoto J.K., Elsyad D.H., Schmitt J.F., Korsgaard N.H., Hu J.K., Gaines III G.C., Frescino T.S., and McConville K.S. (2024+) Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*. [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
+-    White G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025) A method for empirically assessing small area estimators via bootstrap-weighted k-nearest-neighbor artificial populations, with applications to forest inventory. *Forestry: An International Journal of Forest Research*. cpaf071, [https://doi.org/10.1093/forestry/cpaf071](https://doi.org/10.1093/forestry/cpaf071)
+
+-   White G.W., Yamamoto J.K., Elsyad D.H., Schmitt J.F., Korsgaard N.H., Hu J.K., Gaines III G.C., Frescino T.S., and McConville K.S. (2025) Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*. 55, 1-19, [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
 
 -   Emick E., Babcock C., White G.W., Hudak A.T., Domke G.M., and Finley A.O. (2023) An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps. *Remote Sensing of Environment*. 295, 113678, [https://doi.org/10.1016/j.rse.2023.113678](https://doi.org/10.1016/j.rse.2023.113678)
 
