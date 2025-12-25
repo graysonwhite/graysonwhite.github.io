@@ -15,7 +15,7 @@ As an educator I aim to create an inclusive, safe, welcoming, and productive spa
 
 ### At Michigan State University
 
-- Instructor, [FOR 128: Practical Computing and Data Science Tools](http://www.for128.org) (Fall 2024)
+- Instructor, [Forestry 128: Practical Computing and Data Science Tools](http://www.for128.org) (Fall 2024)
 
 - Teaching Assistant, Forestry 372: Ecological Monitoring and Data Analysis (Spring 2023, Spring 2024)
 

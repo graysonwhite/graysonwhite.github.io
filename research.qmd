@@ -7,7 +7,7 @@ My research interests lie in small area estimation, hierarchical Bayesian modeli
 
 ## Preprints 
 
--    White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., and Andersen H.E. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. *arXiv preprint*. [https://arxiv.org/abs/2503.22103](https://arxiv.org/abs/2503.22103)
+-    White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., Andersen H.E., and Domke G.M. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. *arXiv preprint*. [https://arxiv.org/abs/2503.22103](https://arxiv.org/abs/2503.22103)
 
 ## Publications
 
