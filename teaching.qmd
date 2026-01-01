@@ -9,7 +9,7 @@ As an educator I aim to create an inclusive, safe, welcoming, and productive spa
 
 ### At Reed College
 
-- Instructor, Math 241: Data Science (Spring 2026)
+- Instructor, [Math 241: Data Science](https://reed-data-science.github.io/) (Spring 2026)
 
 - Instructor, [Math 141: Introduction to Probability and Statistics](https://math-141.github.io/) (Fall 2025)
 
