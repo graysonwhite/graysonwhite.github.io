@@ -9,13 +9,15 @@ As an educator I aim to create an inclusive, safe, welcoming, and productive spa
 
 ### At Reed College
 
-- Instructor, [Math 241: Data Science](https://reed-data-science.github.io/) (Spring 2026)
+- Instructor, Stat 243: Statistical Learning ([Fall 2026](https://stat-243-f26.github.io/))
 
-- Instructor, [Math 141: Introduction to Probability and Statistics](https://math-141.github.io/) (Fall 2025)
+- Instructor, Stat/Math 241: Data Science ([Fall 2026](https://stat-241-f26.github.io/), [Spring 2026](https://reed-data-science.github.io/))
+
+- Instructor, Math 141: Introduction to Probability and Statistics ([Fall 2025]((https://math-141.github.io/)))
 
 ### At Michigan State University
 
-- Instructor, [Forestry 128: Practical Computing and Data Science Tools](http://www.for128.org) (Fall 2024)
+- Instructor, Forestry 128: Practical Computing and Data Science Tools ([Fall 2024]((http://www.for128.org)))
 
 - Teaching Assistant, Forestry 372: Ecological Monitoring and Data Analysis (Spring 2023, Spring 2024)
 

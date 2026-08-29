@@ -1,36 +1,33 @@
 ---
 title: "Research"
 editor: source
+validate-yaml: false
+filters:
+  - multibib
+csl: apa-by-year.csl
+bibliography:
+  preprints: preprints.bib
+  publications: publications.bib
+  software: software.bib
+nocite: |
+  @*
 ---
 
 My research interests lie in small area estimation, hierarchical Bayesian modeling, survey statistics, statistical software, and computing. I am broadly interested in statistical problems motivated by applications to forestry and forest inventory and in answering authentically-motivated research questions from the USDA Forest Service. Central themes in my research include developing novel estimation methods for environmental data and developing simulation-based techniques for the formal evaluation of statistical estimators. I strive to increase practical impact of my research via the development of statistical software such as R packages and interactive dashboards. 
 
 ## Preprints 
 
--    White G.W., Finley A.O., Yamamoto J.K., Green J.L., Frescino T.S., MacFarlane D.W., Andersen H.E., and Domke G.M. (2025+) Hierarchical models for small area estimation using zero-inflated forest inventory variables: comparison and implementation. *arXiv preprint*. [https://arxiv.org/abs/2503.22103](https://arxiv.org/abs/2503.22103)
+::: {#refs-preprints}
+:::
 
 ## Publications
 
--    White G.W., Wieczorek J.A., Cody Z.W., Tan E.X., Chistolini J.O., McConville K.S., Frescino T.S., and Moisen G.G. (2025) A method for empirically assessing small area estimators via bootstrap-weighted k-nearest-neighbor artificial populations, with applications to forest inventory. *Forestry: An International Journal of Forest Research*. cpaf071, [https://doi.org/10.1093/forestry/cpaf071](https://doi.org/10.1093/forestry/cpaf071)
-
--   White G.W., Yamamoto J.K., Elsyad D.H., Schmitt J.F., Korsgaard N.H., Hu J.K., Gaines III G.C., Frescino T.S., and McConville K.S. (2025) Small area estimation of forest biomass via a two-stage model for continuous zero-inflated data. *Canadian Journal of Forest Research*. 55, 1-19, [https://doi.org/10.1139/cjfr-2024-0149](https://doi.org/10.1139/cjfr-2024-0149)
-
--   Emick E., Babcock C., White G.W., Hudak A.T., Domke G.M., and Finley A.O. (2023) An approach to estimating forest biomass while quantifying estimate uncertainty and correcting bias in machine learning maps. *Remote Sensing of Environment*. 295, 113678, [https://doi.org/10.1016/j.rse.2023.113678](https://doi.org/10.1016/j.rse.2023.113678)
-
--   Frescino T.S., Moisen G.G., Patterson P.L., Toney J.C., and White G.W. (2023) FIESTA: a forest inventory estimation and analysis R package. *Ecography*. 7, e06428, [https://doi.org/10.1111/ecog.06428](https://doi.org/10.1111/ecog.06428)
-
--   Frescino T.S., McConville K.S., White G.W., Toney, J.C., and Moisen G.G. (2022) Small Area Estimates for National Applications: A Database to Dashboard Strategy Using FIESTA. *Frontiers in Forests and Global Change*. 5, 107, [https://doi.org/10.3389/ffgc.2022.779446](https://doi.org/10.3389/ffgc.2022.779446)
-
--   White G.W., McConville K.S., Moisen G.G., and Frescino T.S. (2021) Hierarchical Bayesian Small Area Estimation Using Weakly Informative Priors in Ecologically Homogeneous Areas of the Interior Western Forests. *Frontiers in Forests and Global Change*. 4, 178, [https://doi.org/10.3389/ffgc.2021.752911](https://doi.org/10.3389/ffgc.2021.752911)
+::: {#refs-publications}
+:::
 
 ## Software 
 
--   Grayson W. White, Hannah Frick, and Simon Couch (2024). forested: Forest Attributes in Washington State. R package version 0.1.0. [https://CRAN.R-project.org/package=forested](https://CRAN.R-project.org/package=forested)
 
--   Grayson W. White, Jerzy A. Wieczorek, Tracey S. Frescino, and Kelly S. McConville (2024). kbaabb: A kNN-based approximation to the approximate Bayesian bootstrap. R package version 0.0.0.9000. [https://github.com/graysonwhite/kbaabb/](https://github.com/graysonwhite/kbaabb/)
+::: {#refs-software}
+:::
 
--   Josh K. Yamamoto, Dinan Elsyad D, Grayson W. White, Julian Schmitt, Niels Korsgaard, Kelly S. McConville, and Jie Kate Hu (2024). saeczi: Small Area Estimation for Continuous Zero Inflated Data. R package version 0.2.0. [https://CRAN.R-project.org/package=saeczi](https://CRAN.R-project.org/package=saeczi)
-
--   Tracey S. Frescino, Gretchen G. Moisen, Paul L. Patterson, J. Chris Toney, and Grayson W. White (2022). FIESTA: A forest inventory estimation and analysis R package. R package version 3.6.4. [https://cran.r-project.org/package=FIESTA](https://cran.r-project.org/package=FIESTA)
-
--   Grayson W. White (2020). gglm: Grammar of Graphics for Linear Model Diagnostics. R package version 1.0.2. [https://CRAN.R-project.org/package=gglm](https://CRAN.R-project.org/package=gglm)
