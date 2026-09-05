@@ -1,1 +1,22 @@
 /* css styles */
+
+/* Style the preprints/publications/software bibliographies like a bulleted
+   list, matching the spacing and indentation of a normal markdown list */
+#refs-preprints.hanging-indent,
+#refs-publications.hanging-indent,
+#refs-software.hanging-indent {
+  margin-left: 0;
+  padding-left: 2rem;
+  text-indent: 0;
+}
+
+#refs-preprints.hanging-indent div.csl-entry,
+#refs-publications.hanging-indent div.csl-entry,
+#refs-software.hanging-indent div.csl-entry {
+  display: list-item;
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-left: 0;
+  text-indent: 0;
+  margin-bottom: 1em;
+}
