@@ -1,0 +1,15 @@
+---
+title: "Office Hours"
+editor: source
+format:
+  html:
+    page-layout: article
+    toc: false
+---
+
+
+My office hours occur in my office, Library 386. Below is the schedule of my office hours for the week. I will update this calendar in case office hours need to change times or locations. 
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&showTitle=0&mode=WEEK&showTz=0&showCalendars=0&showTabs=0&src=Y19hZmZhMzljZmJmYWExMzZkMDY5NDFjN2Q4NmIyYjMyNTQzMDViY2ZjYWRmNThhY2I2MTczNDg1YTIyYzJjNWE3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23b39ddb" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+

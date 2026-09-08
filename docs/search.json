@@ -1,10 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
+    "objectID": "office_hours.html",
+    "href": "office_hours.html",
+    "title": "Office Hours",
     "section": "",
-    "text": "Growing up in the Pacific Northwest, I was immersed in nature from an early age. In turn, outside of being a statistics, data science, and forestry educator and researcher, many of my passions relate to spending time outdoors. Some of my hobbies include exploring new places with my dog (“Dude”, pictured below), cycling, camping, and trying my best to perfect my home espresso skills and technique."
+    "text": "My office hours occur in my office, Library 386. Below is the schedule of my office hours for the week. I will update this calendar in case office hours need to change times or locations."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grayson White",
+    "section": "",
+    "text": "I am a Visiting Assistant Professor of Statistics at Reed College.\nMy research interests are in small area estimation, survey statistics, hierarchical Bayesian modeling, statistical software, and computing. I am broadly interested in statistical problems motivated by applications to forestry and forest inventory, and have strong ongoing collaborations with the USDA Forest Service, Forest Inventory and Analysis (FIA) program, who have funded many of my research projects and student research mentorship.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. During the summer, I co-direct the Undergraduate Forestry Data Science Lab, a program funded by the Forest Inventory and Analysis program of the U.S. Forest Service where undergraduate students get unique and enriching research experiences in statistics, data science, and forestry. Further, I wholeheartedly believe in the benefits and impact of statistical software for teaching, learning, and research. I’ve developed R packages for teaching statistics, as a result of research with undergraduates and for implementing methodological research. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Grayson White",
+    "section": "",
+    "text": "I am a Visiting Assistant Professor of Statistics at Reed College.\nMy research interests are in small area estimation, survey statistics, hierarchical Bayesian modeling, statistical software, and computing. I am broadly interested in statistical problems motivated by applications to forestry and forest inventory, and have strong ongoing collaborations with the USDA Forest Service, Forest Inventory and Analysis (FIA) program, who have funded many of my research projects and student research mentorship.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. During the summer, I co-direct the Undergraduate Forestry Data Science Lab, a program funded by the Forest Inventory and Analysis program of the U.S. Forest Service where undergraduate students get unique and enriching research experiences in statistics, data science, and forestry. Further, I wholeheartedly believe in the benefits and impact of statistical software for teaching, learning, and research. I’ve developed R packages for teaching statistics, as a result of research with undergraduates and for implementing methodological research. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grayson White",
+    "section": "Education",
+    "text": "Education\nMichigan State University | East Lansing, MI, USA\nPh.D. in Forestry | 2025\nM.S. in Statistics | 2025\nReed College | Portland, OR, USA\nB.A. in Mathematics (concentration Statistics) | 2021"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "As an educator I aim to create an inclusive, safe, welcoming, and productive space for students to engage deeply with statistics and data science concepts. I strive to help students gain confidence in their mathematical, statistical, and programmatic skills by making my courses feel accessible and welcoming, genuinely engaging with questions and feedback from students, and adapting my practices based on continued experience in the classroom."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nAt Reed College\n\nInstructor, Stat 243: Statistical Learning (Fall 2026)\nInstructor, Stat/Math 241: Data Science (Fall 2026, Spring 2026)\nInstructor, Math 141: Introduction to Probability and Statistics (Fall 2025)\n\n\n\nAt Michigan State University\n\nInstructor, Forestry 128: Practical Computing and Data Science Tools (Fall 2024)\nTeaching Assistant, Forestry 372: Ecological Monitoring and Data Analysis (Spring 2023, Spring 2024)\nTeaching Assistant, Forestry 128: Practical Computing and Data Science Tools (Spring 2023)"
+  },
+  {
+    "objectID": "teaching.html#other-experience",
+    "href": "teaching.html#other-experience",
+    "title": "Teaching",
+    "section": "Other experience",
+    "text": "Other experience\nPrior to my time in academia, I was a Data Science Educator at Posit. Further, as an undergraduate at Reed College I was a Course Assistant and Tutor for Math 141: Introduction to Probability and Statistics, Math 241: Data Science, Math 392: Mathematical Statistics, and Econ 311: Survey of Econometric Methods."
   },
   {
     "objectID": "research.html",
@@ -35,45 +77,10 @@
     "text": "Software\n\n\nWhite, G. W. (2026). Gglm: Grammar of graphics for linear model diagnostic plots. https://github.com/graysonwhite/gglm\n\n\nWhite, G. W., Wieczorek, J. A., Frescino, T. S., & McConville, K. S. (2026). Kbaabb: Generates an artificial population based on the KBAABB methodology. https://github.com/ufds-lab/kbaabb-package\n\n\nFrescino, T., Toney, C., White, G., & Yamamoto, J. (2025). FIESTAutils: Utility functions for forest inventory estimation and analysis. https://doi.org/10.32614/CRAN.package.FIESTAutils\n\n\nWhite, G., Frick, H., & Couch, S. (2025). Forested: Forest attributes in u.s. states. https://doi.org/10.32614/CRAN.package.forested\n\n\nYamamoto, J., Elsyad, D., White, G., Schmitt, J., Korsgaard, N., McConville, K., & Hu, K. (2024). Saeczi: Small area estimation for continuous zero inflated data. https://doi.org/10.32614/CRAN.package.saeczi\n\n\nFrescino, T. S., Moisen, G. G., Patterson, P. L., Toney, C., & White, G. W. (2023). FIESTA: A forest inventory estimation and analysis r package. USDA Forest Service, Rocky Mountain Research Station."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "As an educator I aim to create an inclusive, safe, welcoming, and productive space for students to engage deeply with statistics and data science concepts. I strive to help students gain confidence in their mathematical, statistical, and programmatic skills by making my courses feel accessible and welcoming, genuinely engaging with questions and feedback from students, and adapting my practices based on continued experience in the classroom."
-  },
-  {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching",
-    "section": "Courses",
-    "text": "Courses\n\nAt Reed College\n\nInstructor, Stat 243: Statistical Learning (Fall 2026)\nInstructor, Stat/Math 241: Data Science (Fall 2026, Spring 2026)\nInstructor, Math 141: Introduction to Probability and Statistics (Fall 2025)\n\n\n\nAt Michigan State University\n\nInstructor, Forestry 128: Practical Computing and Data Science Tools (Fall 2024)\nTeaching Assistant, Forestry 372: Ecological Monitoring and Data Analysis (Spring 2023, Spring 2024)\nTeaching Assistant, Forestry 128: Practical Computing and Data Science Tools (Spring 2023)"
-  },
-  {
-    "objectID": "teaching.html#other-experience",
-    "href": "teaching.html#other-experience",
-    "title": "Teaching",
-    "section": "Other experience",
-    "text": "Other experience\nPrior to my time in academia, I was a Data Science Educator at Posit. Further, as an undergraduate at Reed College I was a Course Assistant and Tutor for Math 141: Introduction to Probability and Statistics, Math 241: Data Science, Math 392: Mathematical Statistics, and Econ 311: Survey of Econometric Methods."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Grayson White",
-    "section": "",
-    "text": "I am a Visiting Assistant Professor of Statistics at Reed College.\nMy research interests are in small area estimation, survey statistics, hierarchical Bayesian modeling, statistical software, and computing. I am broadly interested in statistical problems motivated by applications to forestry and forest inventory, and have strong ongoing collaborations with the USDA Forest Service, Forest Inventory and Analysis (FIA) program, who have funded many of my research projects and student research mentorship.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. During the summer, I co-direct the Undergraduate Forestry Data Science Lab, a program funded by the Forest Inventory and Analysis program of the U.S. Forest Service where undergraduate students get unique and enriching research experiences in statistics, data science, and forestry. Further, I wholeheartedly believe in the benefits and impact of statistical software for teaching, learning, and research. I’ve developed R packages for teaching statistics, as a result of research with undergraduates and for implementing methodological research. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Grayson White",
-    "section": "",
-    "text": "I am a Visiting Assistant Professor of Statistics at Reed College.\nMy research interests are in small area estimation, survey statistics, hierarchical Bayesian modeling, statistical software, and computing. I am broadly interested in statistical problems motivated by applications to forestry and forest inventory, and have strong ongoing collaborations with the USDA Forest Service, Forest Inventory and Analysis (FIA) program, who have funded many of my research projects and student research mentorship.\nI have a passion for teaching data science and statistics, and for mentoring undergraduate students on research projects. During the summer, I co-direct the Undergraduate Forestry Data Science Lab, a program funded by the Forest Inventory and Analysis program of the U.S. Forest Service where undergraduate students get unique and enriching research experiences in statistics, data science, and forestry. Further, I wholeheartedly believe in the benefits and impact of statistical software for teaching, learning, and research. I’ve developed R packages for teaching statistics, as a result of research with undergraduates and for implementing methodological research. I also maintain an R package with my collaborators from the U.S. Forest Service, FIESTA, which is used for both internally and externally for forest inventory estimation projects and research."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Grayson White",
-    "section": "Education",
-    "text": "Education\nMichigan State University | East Lansing, MI, USA\nPh.D. in Forestry | 2025\nM.S. in Statistics | 2025\nReed College | Portland, OR, USA\nB.A. in Mathematics (concentration Statistics) | 2021"
+    "text": "Growing up in the Pacific Northwest, I was immersed in nature from an early age. In turn, outside of being a statistics, data science, and forestry educator and researcher, many of my passions relate to spending time outdoors. Some of my hobbies include exploring new places with my dog (“Dude”, pictured below), cycling, camping, and trying my best to perfect my home espresso skills and technique."
   }
 ]
